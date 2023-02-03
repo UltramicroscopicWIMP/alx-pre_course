@@ -1,10 +1,2 @@
 #!bin/bash
-<<<<<<< HEAD
-<<<<<<< HEAD
-echo "ALX is so cool"
-=======
-echo "School"
->>>>>>> update_script
-=======
-echo "School"
->>>>>>> update_script
+"ALX School"
